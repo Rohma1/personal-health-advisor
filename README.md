@@ -4,9 +4,7 @@
 
 The Personal Health Advisor is an AI agent designed to provide personalized fitness and nutrition guidance based on a user's goals, preferences, location, and current weather.
 
-The original IBM lab uses watsonx.ai Agent Lab with the Llama 3.3 70B Instruct model, together with Google Search and Weather tools.
-
-This implementation reproduces the same core agent workflow using free/open tools.
+This implementation produces the core agent workflow using free/open tools.
 
 ## Main Features
 
